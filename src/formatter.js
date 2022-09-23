@@ -15,8 +15,8 @@ const escape = str => {
 }
 
 module.exports = {
-	bold: bold,
-	italic: italic,
-	monospace: monospace,
-	escape: escape,
+	bold,
+	italic,
+	monospace,
+	escape,
 }

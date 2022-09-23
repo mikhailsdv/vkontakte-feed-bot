@@ -7,7 +7,7 @@ Telegram-bot that moves your VK news feed to Telegram.
 1. Install Node.js.
 2. Install MySQL.
 3. Clone this repo to your machine.
-4. Create your VK **standalone-application** [here](https://vk.com/apps?act=manage). You can use logos form `src/logo` for your VK app.
+4. Create your VK **standalone-application** [here](https://vk.com/apps?act=manage). You can use logos from `src/logo` for your VK app.
 5. Create your Telegram-bot via [@BotFather](https://t.me/BotFather).
 6. Rename `/src/config.example.js` to `/src/config.js` and fill the necessary variables.
 7. Install dependencies by running `npm i` from the root folder.
